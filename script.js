@@ -1,7 +1,7 @@
 function toCase(text) {
-  // write your code here
+  / write your code here
+	return text.toLowerCase();
 }
-
 // DO not change the code below
 
 const text = prompt("Enter text:");
